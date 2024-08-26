@@ -7,8 +7,9 @@ def main():
 
     if args.command == 'greet':
         print("Hello, World!")
-    else:
+    elif args.command == 'how':
+        print("fine ! what about you?")    
+    else :
         print("Unknown command")
-
 if __name__ == "__main__":
     main()
