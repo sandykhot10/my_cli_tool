@@ -27,6 +27,12 @@
 <pre><code>python src/main.py greet</code></pre>
 <p>Output:</p>
 <pre><code>Hello, World!</code></pre>
+<p>
+  To asking about health, use the following command:
+</p>
+<pre><code>python src/main.py how</code></pre>
+<p>Output:</p>
+<pre><code>fine ! what about you?</code></pre>
 <h2>🤝 Contributing</h2>
 <p>
   Contributions are welcome! If you have suggestions for new features or improvements, feel free to fork the repository and submit a pull request.
